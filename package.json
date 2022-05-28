@@ -1,13 +1,12 @@
 {
     "name": "types-package-json",
-    "version": "0.0.10",
-    "license": "GPL-3.0",
+    "version": "0.0.11",
+    "license": "MIT",
     "files": [
-        "dist"
+        "dist/index.d.ts"
     ],
-    "author": "Artur Kurowski <radarsu@gmail.com>",
-    "homepage": "https://github.com/radarsu/types-package-json#readme",
-    "main": "dist/index.js",
+    "author": "Kevin Hill <kevinhill@gmail.com>",
+    "homepage": "https://github.com/kevinkhill/types-package-json",
     "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsc --project ./tsconfig.json"
