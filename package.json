@@ -1,6 +1,6 @@
 {
     "name": "types-package-json",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "license": "MIT",
     "files": [
         "dist/index.d.ts"
